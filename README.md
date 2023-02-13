@@ -99,3 +99,12 @@ This method cannot work with large teams, if working in pairs is impossible or i
 With the eXtreme Programming methodology, managers, project team and client work together. This approach favors the simplest method, promotes the team's responsiveness and establishes continuous quality control.
 
 Concretely, XP is not easy to apply and master because it requires a lot of discipline and communication. You have to move quickly, without losing sight of the rigor of the work and the final functions of the project. The great strength of the eXtreme Programming method lies in its simplicity and the fact that we go straight to the point, following a rhythm that must remain constant.
+
+
+## References
+
+* https://fr.wikipedia.org/wiki/Extreme_programming
+* Jean-Louis Bénard, Laurent Bossavit, Régis Médina et Dominic Williams, L'Extreme Programming : Avec deux études de cas, Paris, Eyrolles, 2002, 298 p. (ISBN 2-212-11051-0), nouvelle édition du même ouvrage sous le nom Gestion de projet eXtreme Programming (ISBN 2-212-11561-X)
+* Thierry Cros, Maîtrisez les projets avec l'Extreme Programming, Toulouse, Cépadues éd., 2004, 186 p. (ISBN 2-85428-639-1)
+* Jean-Pierre Vickoff, Méthode Agile, Les meilleures pratiques, Compréhension et mise en œuvre, QI, 2009 (ISBN 978-2912843074)
+* https://www.planzone.fr/blog/quest-ce-que-la-methodologie-extreme-programming
